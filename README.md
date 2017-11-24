@@ -1,2 +1,2 @@
 # dotfiles
-dotfiles configs for linux box. 
+This project contains my latest dotfiles for `i3` window manager.
